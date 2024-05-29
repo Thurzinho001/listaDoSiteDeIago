@@ -1,4 +1,4 @@
-public class Main {
+public class QuestaoUm {
 
 	public static void main(String[] args) {
 		Scanner ref = new Scanner(System.in);
